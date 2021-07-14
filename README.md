@@ -1,16 +1,16 @@
 # java-control-statements
 
 
-Sample code for 
+Sample code for :
 
-if..else
+1. if..else
 
-switch..case
+2. switch..case
 
-do..while
+3. do..while
 
-for loop
+4. for loop
 
-while loop
+5. while loop
 
-for each loop.
+6. for each loop.
